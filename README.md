@@ -38,5 +38,6 @@ To run this project locally, follow these steps:
 ## Demo Video
 
 Check out the demo video for WatchShop:
+
 https://github.com/user-attachments/assets/5c2f6042-fdf5-405d-99e5-d8f232df36fd
 
